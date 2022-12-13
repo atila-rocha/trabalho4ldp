@@ -17,7 +17,7 @@ git clone https://github.com/atila-rocha/trabalho4ldp.git
 Após baixar o repositório, abra o terminal e digite o segunte comando:
  ```
 cd trabalho4ldp
-gcc TR4_538715.c -o vetord
+gcc TR4_538715.c main.c -o vetord
 ```
 - Em seguida, o código será compilado. Para iniciar, digite o comando:
 - `./vetord`
